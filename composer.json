@@ -1,0 +1,16 @@
+{
+    "name": "satrio/library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Satrio\\Library\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "satriowibowo1701",
+            "email": "indogaming170@gmail.com"
+        }
+    ],
+    "require": {}
+}
